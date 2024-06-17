@@ -2,12 +2,12 @@
 
 Herany Notes is a simple **note-taking app** that uses **Markdown** syntax to format your notes.
 
-You can create your first nute by clicking on the top-left + icon on the sidebar,
+You can create your first note by clicking on the top-left + icon on the sidebar,
 or delete a note by clicking on top right trashcan icon.
 
 Here's a quick overview of the currently supported Markdown syntaxes.
 
-## Tex formating
+## Text formating
 
 This is a **bold** text.
 This is an _italic_ text.
@@ -50,7 +50,7 @@ Here we have a numbered list:
 
 Only `inline code` is currently supported
 
-Code block snippets using the following syntax _|'|'|'js|'|'|'_ are **_not supported_**
+Code block snippets using the following syntax _\`\`\`js\`\`\`_ are **_not supported_**
 
 ### Links
 

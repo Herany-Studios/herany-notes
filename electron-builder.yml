@@ -1,5 +1,5 @@
-appId: com.electron.app
-productName: herany-notes
+appId: net.herany.notes
+productName: Herany Notes
 directories:
   buildResources: build
 files:
@@ -40,4 +40,4 @@ appImage:
 npmRebuild: false
 publish:
   provider: generic
-  url: https://example.com/auto-updates
+  url: https://herany.net/

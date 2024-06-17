@@ -11,8 +11,12 @@ export const NewNoteButton = ({ ...props }: ActionButtonProps) => {
   }
 
   return (
-    <ActionButton onClick={handleCreation} {...props}>
-      <GrAdd className="w-4 h-4 text-zinc-300" />
+    <ActionButton
+      onClick={handleCreation}
+      {...props}
+      className="text-zinc-400/50 hover:text-white hover:border-white transition-colors duration-100"
+    >
+      <GrAdd className="w-4 h-4" />
     </ActionButton>
   )
 }
