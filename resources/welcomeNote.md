@@ -7,7 +7,7 @@ or delete a note by clicking on top right trashcan icon.
 
 Here's a quick overview of the currently supported Markdown syntaxes.
 
-## Text formating
+## Text formatting
 
 This is a **bold** text.
 This is an _italic_ text.
