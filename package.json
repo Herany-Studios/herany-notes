@@ -1,6 +1,6 @@
 {
   "name": "herany-notes",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "Herany default notes application",
   "main": "./out/main/index.js",
   "author": "Herany",
@@ -40,7 +40,7 @@
     "clsx": "^2.1.1",
     "electron": "^28.2.0",
     "electron-builder": "^24.9.1",
-    "electron-vite": "^2.0.0",
+    "electron-vite": "^2.3.0",
     "eslint": "^8.56.0",
     "eslint-plugin-react": "^7.33.2",
     "lodash": "^4.17.21",

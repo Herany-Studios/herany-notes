@@ -14,7 +14,7 @@ export const DeleteNoteButton = ({ ...props }: ActionButtonProps) => {
     <ActionButton
       onClick={handleDelete}
       {...props}
-      className="text-zinc-400/50 hover:border-red-500/70 hover:text-red-500/70 transition-colors duration-100"
+      className="text-white hover:border-red-500/70 hover:text-red-500/70 transition-colors duration-100"
     >
       <FaRegTrashCan className="w-4 h-4" />
     </ActionButton>
